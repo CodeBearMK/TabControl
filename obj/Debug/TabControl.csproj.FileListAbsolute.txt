@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\TabControl\bin\Debug\TabControl.exe.config
+D:\cat32tw\Desktop\TabControl\bin\Debug\TabControl.exe
+D:\cat32tw\Desktop\TabControl\bin\Debug\TabControl.pdb
+D:\cat32tw\Desktop\TabControl\obj\Debug\TabControl.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\TabControl\obj\Debug\TabControl.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\TabControl\obj\Debug\TabControl.Form1.resources
+D:\cat32tw\Desktop\TabControl\obj\Debug\TabControl.Properties.Resources.resources
+D:\cat32tw\Desktop\TabControl\obj\Debug\TabControl.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\TabControl\obj\Debug\TabControl.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\TabControl\obj\Debug\TabControl.exe
+D:\cat32tw\Desktop\TabControl\obj\Debug\TabControl.pdb
